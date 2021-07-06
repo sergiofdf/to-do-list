@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body{
+    background-color: tan;
+}
+
+h1{
+    color: #fff;
+    font-family: 'Patrick Hand', cursive, monospace;
+    font-size: 3em;
+    margin: 0.15em 0;
+    padding: 0;
+}
+
+#input{
+    background-color:khaki;
+    color: darkblue;
+    font-family: 'Patrick Hand', cursive, monospace;
+}
+
+#add{
+    background-color:orangered;
+    color: #fff;
+}
+
+.to-dos{
+    font-family: 'Patrick Hand', cursive, monospace;
+    font-size: 1em;
+}
+
+.div_to_do_task{
+    display: flex;
+    align-items: center;
+}
+
+li{
+    list-style-type: none;
+}
+
